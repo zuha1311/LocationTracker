@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289013212534",
+    "project_id": "parcar-dc778",
+    "storage_bucket": "parcar-dc778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289013212534:android:c6a30cd45a4da1ddc9c657",
+        "android_client_info": {
+          "package_name": "com.example.parcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289013212534-l4knqg3d6lreehj1qmqs81p8gp3bbikc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wHnBwdGS-_EPDZGAdc4EnrkLYXU3n0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289013212534-l4knqg3d6lreehj1qmqs81p8gp3bbikc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
