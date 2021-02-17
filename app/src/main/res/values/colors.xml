@@ -12,9 +12,5 @@
         <item> @color/second </item>
         <item> @color/third </item>
         <item> @color/fourth </item>
-
-
-
-
     </array>
 </resources>
